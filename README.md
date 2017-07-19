@@ -1,12 +1,18 @@
 # discovery-microservice-server-master
-Day 1 - Spring Boot - Discovery Micro service Server
+> Day 1 - Spring Boot - Discovery Micro Service Server
 
 This is a main discovery server where all microservcies are registerd.
+![](discovery-microservice-server-master1.JPG)
 
+## To Create JAR
 
-To Create JAR
-'''mvn clean package'''
+```sh
+mvn clean package
+```
 
-To Run JAR
+## To Run JAR
 
-''java -jar target/com.rutvikpatel.ms.discovery-microservice-server-0.0.1-SNAPSHOT.jar'''
+```sh
+java -jar target/com.rutvikpatel.ms.discovery-microservice-server-0.0.1-SNAPSHOT.jar
+```
+
