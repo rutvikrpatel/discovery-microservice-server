@@ -1,8 +1,13 @@
-# discovery-microservice-server-master
-> Day 1 - Spring Boot - Discovery Micro Service Server
+# discovery-microservice-server-master - PART 1
+> Day 1 - Spring Boot - Discovery Micro Service Server - PART 1
 
 ### Description
 This is a main discovery server where all microservcies are registerd.
+
+#### Links
+> http://localhost:1111/
+
+> http://localhost:1111/lastn
 
 
 ## Screenshot
