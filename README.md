@@ -4,6 +4,14 @@
 ### Description
 This is a main discovery server where all microservcies are registerd.
 
+
+### Release Steps
+
+* Setup Discovery Server - https://github.com/rutvikrpatel/discovery-microservice-server
+* Register Service of Data Provider Accounts Server - https://github.com/rutvikrpatel/accounts-microservice-server
+* Register Service of Accounts Web View- https://github.com/rutvikrpatel/webclient-microservice-server
+
+
 #### Links
 > http://localhost:1111/
 
